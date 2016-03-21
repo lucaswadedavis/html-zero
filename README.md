@@ -1,5 +1,5 @@
-# Lightbox Demo
+# HTML Zero
 
-A Lightbox demo in pure vanilla JS - no frameworks, no libraries.
+A demonstration application in vanilla JS.
 
 ### License: MIT

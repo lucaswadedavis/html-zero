@@ -25,7 +25,7 @@
   // returns the header DOM node with getImage plus button
   app.t.header = function () {
     var header = el('div', 'header');
-    header.textContent = 'Lightbox Demo';
+    header.textContent = 'HTML Zero';
     header.appendChild(app.t.getImageButton());
     return header;
   };
